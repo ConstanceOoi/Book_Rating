@@ -13,4 +13,5 @@ python AppGUI.py
     - add rating
 
 3. Sample Output 
+
 ![Alt text](image.png)
